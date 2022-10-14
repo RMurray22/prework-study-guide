@@ -9,5 +9,5 @@ Provide a short description explaining the what, why, and how of your project. U
 - I didn't really solve any problems during this project as I was building a website.
 - I learned how to trouble shoot and to debug code. I also learned the frustration and heartache that comes with coding as well as the joys that come with it.
 
-## Table of Contents (Optional)
+
 
